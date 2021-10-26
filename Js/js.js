@@ -14,3 +14,7 @@ $('.owl-carousel').owlCarousel({
         }
     }
 })
+// window open abre uma nova pagina.
+function abrir_trailer(){
+    window.open("https://www.youtube.com/watch?v=SvSkxBYuoQY")
+}
